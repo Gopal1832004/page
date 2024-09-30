@@ -1,0 +1,54 @@
+body{
+     font-family: sans-serif;
+    margin: 0;
+    padding-right:0;   
+}
+
+header{
+     text-align: right;  
+    background-color:rgb(233, 230, 230);
+    padding: 10px; 
+    
+}
+
+nav ul{
+    padding: 0px;
+    margin: 0;
+    list-style:none ; 
+}
+
+main .hello{
+    text-align: center;
+}
+nav ul li{
+    display: block;
+    margin-right: 40px; 
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+input{
+    background-color: rgb(99, 99, 246);
+    height: 40px;
+    width: 100px;
+    padding: 0px;
+    border-radius: 10px;
+}
+p{ 
+    text-align: center;
+    
+}
+h2{
+     text-align: center;
+}
+img{
+    height: 400px;
+    width: 1200px;
+    align-items: center;
+}
+img{
+    height: 400px;
+    width: 1200px;
+    padding-left: 50px;
+}
